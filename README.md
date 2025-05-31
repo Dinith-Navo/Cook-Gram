@@ -20,10 +20,11 @@ Welcome to **Cookgram**, a social media platform crafted for food lovers to shar
 
 | Name                   | Student ID   | Email                            |
 |------------------------|--------------|----------------------------------|
+| Vidushan A.A.D.D.N.    | IT22157928   | [it22157928@my.sliit.lk](mailto:it22157928@my.sliit.lk) |
 | Miuranga W.A.R.        | IT22209320   | [it22209320@my.sliit.lk](mailto:it22209320@my.sliit.lk) |
 | Gunasekara L.M.N.P     | IT22267986   | [it22267986@my.sliit.lk](mailto:it22267986@my.sliit.lk) |
 | Walallawita K.L.T.D.   | IT22252340   | [it22252340@my.sliit.lk](mailto:it22252340@my.sliit.lk) |
-| Vidushan A.A.D.D.N.    | IT22157928   | [it22157928@my.sliit.lk](mailto:it22157928@my.sliit.lk) |
+
 
 ---
 
